@@ -1,0 +1,10 @@
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/core/AnalyticsDashboard.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/VitalGridApplication.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/config/CorsConfig.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/model/AnalyticsSummary.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/model/AlertEvent.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/core/VitalsConsumer.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/service/MonitoringService.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/controller/VitalsController.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/model/PatientVitals.java
+/Users/macbook/projects/VitalGrid/backend/src/main/java/com/vitalgrid/core/VitalsProducer.java

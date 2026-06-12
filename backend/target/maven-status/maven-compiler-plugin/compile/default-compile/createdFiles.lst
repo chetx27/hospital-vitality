@@ -1,0 +1,12 @@
+com/vitalgrid/model/AlertEvent.class
+com/vitalgrid/service/MonitoringService$SsePayload.class
+com/vitalgrid/config/CorsConfig.class
+com/vitalgrid/core/VitalsConsumer.class
+com/vitalgrid/core/AnalyticsDashboard.class
+com/vitalgrid/model/AnalyticsSummary.class
+com/vitalgrid/service/MonitoringService.class
+com/vitalgrid/VitalGridApplication.class
+com/vitalgrid/model/PatientVitals.class
+com/vitalgrid/core/VitalsProducer.class
+com/vitalgrid/config/CorsConfig$1.class
+com/vitalgrid/controller/VitalsController.class
